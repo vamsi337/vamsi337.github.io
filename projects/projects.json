@@ -28,5 +28,16 @@
     "links": {
       "code": "https://github.com/vamsi337/library-microservice"
     }
+  },
+  {
+    
+      "name": "HMS AWS Devops",
+      "desc": "Hospital Management System using Docker containers, Kubernetes for orchestration, and AWS for cloud infrastructure.",
+      "image": "ops",
+      "category": "ops",
+      "links": {
+        "code": "https://drive.google.com/file/d/1OxhFEeHnI1agYk4gGn4rMLr4hfXABvHG/view?usp=drive_link"
+      }
+    
   }
 ]
