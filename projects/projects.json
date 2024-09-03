@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Phone Directory App",
+    "desc": "Back-end CRUD app for phone numbers and list them.",
+    "image": "phonedir",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/vamsi337/PhoneDirectoryApp"
+    }
+  }, 
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/vamsi337/vamsi-portfolio"
+    }
+  },
+  
+  {
+    "name": "Library microservice",
+    "desc": "Basic CRUD app where customers can come and add their fav books , view and delete them.",
+    "image": "library",
+    "category": "lib",
+    "links": {
+      "code": "https://github.com/vamsi337/library-microservice"
+    }
+  }
+]
